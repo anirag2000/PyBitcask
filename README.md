@@ -1,7 +1,7 @@
 # PyBitcask
 This project provides a Python implementation of a Bitcask-style key-value store, optimized for fast reads and writes.
 
-##Usage
+## Usage
 ```
 from bitcask_kvstore import EnhancedBitcask
 
